@@ -1,0 +1,17 @@
+body {
+  background-color: tan;
+}
+
+/* Sur les écrans de 992px ou moins */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: khaki;
+  }
+}
+
+/* Sur les écrans de 600px ou moins */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
